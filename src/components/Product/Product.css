@@ -11,11 +11,3 @@
     color:blue;
     font-weight: 400;
 }
-.cart-button{
-    width: 150px;
-    height: 30px;
-    background-color: goldenrod;
-    border: 1px solid gray;
-    border-radius: 3px;
-    cursor: pointer;
-}
